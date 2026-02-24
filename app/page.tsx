@@ -1,28 +1,21 @@
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-black text-white p-8">
-      <h1 className="text-8xl md:text-10xl font-mono font-black tracking-tight mb-4">
+      <h1 className="text-9xl md:text-12xl font-black tracking-tighter uppercase text-white mb-16">
         unfactory
       </h1>
-      <p className="text-4xl md:text-6xl font-mono font-light tracking-wide mb-12">
-        enough is enough
-      </p>
-      <div className="text-xl md:text-2xl flex items-center gap-4">
-        <span className="opacity-80">drop me a line:</span>
-        <a href="mailto:antony@unfactory.co.uk" className="underline hover:text-amber-200 transition">
-          antony@unfactory.co.uk
-        </a>
+      <div className="text-5xl md:text-7xl font-bold tracking-widest text-center mb-32">
+        rescue<br />
+        restore<br />
+        reuse<br />
+        reloved
       </div>
-
-<p className="mt-24 text-sm md:text-base text-gray-400 font-mono leading-relaxed max-w-xl text-center">
-  enough is enough.<br />
-  build beauty that lasts.<br />
-  old timber, new life.<br />
-  repair what broke.<br />
-  waste nothing.<br />
-  let it breathe again.<br />
-  and yeah... over a pint.
-</p>
+      <p className="text-xl font-mono text-gray-400 text-center mb-16">
+        ...to be continued
+      </p>
+      <p className="text-xl font-mono text-white underline">
+        antony@unfactory.co.uk
+      </p>
     </main>
   );
 }
