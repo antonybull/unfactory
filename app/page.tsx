@@ -13,6 +13,16 @@ export default function Home() {
           antony@unfactory.co.uk
         </a>
       </div>
+
+<p className="mt-24 text-sm md:text-base text-gray-400 font-mono leading-relaxed max-w-xl text-center">
+  enough is enough.<br />
+  build beauty that lasts.<br />
+  old timber, new life.<br />
+  repair what broke.<br />
+  waste nothing.<br />
+  let it breathe again.<br />
+  and yeah... over a pint.
+</p>
     </main>
   );
 }
