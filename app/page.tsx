@@ -11,7 +11,7 @@ export default function Home() {
         we take old things made from wood and make new things from wood.<br />
         to be continued.....
       </p>
-      <p className="text-xl font-mono text-white underline">
+      <p className="text-xl font-mono text-white text-center">
         antony@unfactory.co.uk
       </p>
     </main>
