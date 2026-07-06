@@ -4,18 +4,12 @@ export default function Home() {
       <h1 className="text-7xl md:text-9xl lg:text-10xl font-black tracking-tighter lowercase text-white mb-16">
         unfactory
       </h1>
-      <div className="text-4xl md:text-6xl lg:text-7xl font-mono font-light tracking-widest text-center mb-32">
-        <span className="hover:text-[#e67e22] transition-colors duration-300">rescued</span>{' '}
-        <span className="hover:text-[#e67e22] transition-colors duration-300">restored</span>{' '}
-        <span className="hover:text-[#e67e22] transition-colors duration-300">reused</span>{' '}
-        <span className="hover:text-[#e67e22] transition-colors duration-300">reloved</span>
+      
       </div>
-      <p className="text-xl font-mono text-gray-400 text-center mb-16">
-        we take old things made from wood and make new things from wood.<br />
-        to be continued.....
+      
       </p>
       <p className="text-xl font-mono text-white text-center">
-        antony@unfactory.co.uk
+        mail@unfactory.co.uk
       </p>
     </main>
   );
